@@ -7,6 +7,6 @@ be careful you should not be the picture.
 
 Then
 
-# python3 background.py 
+# RUN python3 background.py 
 USE reddish-orange cloth and 
 RUN cloakk.py using command mentioned to make yourself invisible.
